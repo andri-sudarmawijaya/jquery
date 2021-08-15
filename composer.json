@@ -14,7 +14,7 @@
     "authors": [
         {
             "name": "JS Foundation and other contributors",
-            "hompage": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt",
+            "hompage": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt"
         }
     ],
     "minimum-stability": "stable",
