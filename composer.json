@@ -17,7 +17,6 @@
             "hompage": "https://github.com/jquery/jquery/blob/master/AUTHORS.txt"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
 
     },
